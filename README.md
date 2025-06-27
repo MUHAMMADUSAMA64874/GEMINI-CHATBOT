@@ -9,4 +9,4 @@ A modern, responsive ChatGPT-like interface built with React + Vite and powered 
 - Real AI responses via Gemini API
 - Smooth dark/light mode toggle
 - Responsive design
-- Typing indicators & message history
+- Typing indicators
